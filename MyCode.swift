@@ -1,4 +1,4 @@
 func sayHi(name: String) {
-    print("Hello, \(name)")
+    print("Good morning, \(name)")
 }
 
